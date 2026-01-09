@@ -1,6 +1,6 @@
 # 🌍 Travel Blog Application
 
-## [Live @]()
+## [Live @](https://react-trip-tail-app-proj-03.vercel.app/)
 
 ## 📋 Overview
 
@@ -69,7 +69,7 @@ src/
 
 #### 1.Clone the repository
 ```
-git clone https://github.com/your-username/travel-blog-app.git
+git clone https://github.com/Aromalpriyan/React-Trip-Tail-App-Proj-03
 ```
 #### 2.Navigate to the project directory
 ```
