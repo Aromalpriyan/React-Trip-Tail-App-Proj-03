@@ -1,4 +1,4 @@
-# 🌍 Travel Blog Application
+# 🌍 Travel Blog App
 
 ## [Live @](https://react-trip-tail-app-proj-03.vercel.app/)
 
